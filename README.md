@@ -1,6 +1,9 @@
 <p align="center" style="margin-bottom: -20px;">
-  <img src="https://thumbs.dreamstime.com/b/creative-workspace-ai-technology-coding-devices-computer-setup-focus-featuring-laptop-screen-code-various-388175545.jpg" alt="Kota Sathvik Reddy — Data Scientist" width="100%" />
+  <img src="assets/banner.png" alt="Kota Sathvik Reddy — Data Scientist" width="100%" />
 </p>
+
+<h1 align="center" style="margin-top: 10px;">Hi 👋, I'm KOTA SATHVIK REDDY</h1>
+
 
 <h1 align="center" style="margin-top: 10px;">Hi 👋, I'm KOTA SATHVIK REDDY</h1>
 
