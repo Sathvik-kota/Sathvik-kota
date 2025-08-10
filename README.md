@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn8qb80cozdu3kpizefle.png" alt="Kota Sathvik Reddy — Data Scientist" width="100%" />
+  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" alt="Kota Sathvik Reddy — Data Scientist" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm KOTA SATHVIK REDDY</h1>
 
