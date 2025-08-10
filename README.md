@@ -45,6 +45,12 @@
 <a href="https://www.linkedin.com/in/kota-sathvik-reddy-2a365925a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kota-sathvik-reddy-2a365925a/" height="30" width="40" /></a>
 </p>
 
+## 🧠 Core Competencies
+- **Programming Fundamentals** → Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, Database Management Systems (DBMS), Computer Networks
+- **Machine Learning & AI** → Supervised/Unsupervised Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Reinforcement Learning
+- **Data Science & Analytics** → Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Statistical Analysis
+- **Software Development** → API Development, Version Control (Git/GitHub), Agile Methodology
+- **Deployment & Tools** → Streamlit Apps, Flask APIs
 
 
 
