@@ -44,12 +44,50 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kota-sathvik-reddy-2a365925a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kota-sathvik-reddy-2a365925a/" height="30" width="40" /></a>
 </p>
-
-## 🧠 Core Competencies
-- **Programming Fundamentals** → Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, Database Management Systems (DBMS), Computer Networks
-- **Machine Learning & AI** → Supervised/Unsupervised Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Reinforcement Learning
-- **Data Science & Analytics** → Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Statistical Analysis
-- **Software Development** → API Development, Agile Methodology
-- **Deployment & Tools** → Streamlit Apps, Flask APIs
-- **DevOps & CI/CD (Learning)** → GitHub Actions, Docker Pipelines
+🧠 CORE COMPETENCIES
+<table>
+<tr>
+<td valign="top" width="70%">
+<strong>Programming Fundamentals</strong>
+<ul>
+<li>Data Structures & Algorithms (DSA)</li>
+<li>Object-Oriented Programming (OOP)</li>
+<li>Operating Systems</li>
+<li>Database Management Systems (DBMS)</li>
+<li>Computer Networks</li>
+</ul>
+</td>
+<td valign="top" width="70%">
+<strong>Machine Learning & AI</strong>
+<ul>
+<li>Supervised/Unsupervised Learning</li>
+<li>Deep Learning & Neural Networks</li>
+<li>Computer Vision (CV)</li>
+<li>Natural Language Processing (NLP)</li>
+<li>Reinforcement Learning</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="70%">
+<strong>Data Science & Analytics</strong>
+<ul>
+<li>Data Preprocessing & Cleaning</li>
+<li>Feature Engineering</li>
+<li>Exploratory Data Analysis (EDA)</li>
+<li>Statistical Analysis</li>
+</ul>
+</td>
+<td valign="top" width="70%">
+<strong>Software & Deployment</strong>
+<ul>
+<li>API Development (Flask)</li>
+<li>Agile Methodology</li>
+<li>Deployment (Streamlit)</li>
+<li>DevOps & CI/CD (Learning Docker)</li>
+<li>Version Control (Git & GitHub)</li>
+</ul>
+</td>
+</tr>
+</table>
 
