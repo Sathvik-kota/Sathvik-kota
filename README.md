@@ -49,8 +49,7 @@
 - **Programming Fundamentals** → Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, Database Management Systems (DBMS), Computer Networks
 - **Machine Learning & AI** → Supervised/Unsupervised Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Reinforcement Learning
 - **Data Science & Analytics** → Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Statistical Analysis
-- **Software Development** → API Development, Version Control (Git/GitHub), Agile Methodology
+- **Software Development** → API Development, Agile Methodology
 - **Deployment & Tools** → Streamlit Apps, Flask APIs
-
-
+- **DevOps & CI/CD (Learning)** → GitHub Actions, Docker Pipelines
 
