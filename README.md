@@ -44,10 +44,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kota-sathvik-reddy-2a365925a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kota-sathvik-reddy-2a365925a/" height="30" width="40" /></a>
 </p>
+
 🧠 CORE COMPETENCIES
 <table width="100%">
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="50%">
 <strong>Programming Fundamentals</strong>
 <ul>
 <li>Data Structures & Algorithms (DSA)</li>
@@ -57,7 +58,7 @@
 <li>Computer Networks</li>
 </ul>
 </td>
-<td valign="top" width="70%">
+<td valign="top" width="50%">
 <strong>Machine Learning & AI</strong>
 <ul>
 <li>Supervised/Unsupervised Learning</li>
@@ -69,7 +70,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="50%">
 <strong>Data Science & Analytics</strong>
 <ul>
 <li>Data Preprocessing & Cleaning</li>
@@ -78,7 +79,7 @@
 <li>Statistical Analysis</li>
 </ul>
 </td>
-<td valign="top" width="70%">
+<td valign="top" width="50%">
 <strong>Software & Deployment</strong>
 <ul>
 <li>API Development (Flask)</li>
