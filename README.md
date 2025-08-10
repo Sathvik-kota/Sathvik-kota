@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner5.png" alt="Kota Sathvik Reddy — Data Scientist" width="100%" style="display:block; margin-bottom:-70px;" />
+  <img src="assets/banner6.png" alt="Kota Sathvik Reddy — Data Scientist" width="100%" style="display:block; margin-bottom:-70px;" />
   <h1>Hi 👋, I'm KOTA SATHVIK REDDY</h1>
 </div>
 
